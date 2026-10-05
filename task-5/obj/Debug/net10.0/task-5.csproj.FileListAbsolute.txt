@@ -1,0 +1,15 @@
+C:\Users\magar\OneDrive\Desktop\Week1\task-5\bin\Debug\net10.0\task-5.exe
+C:\Users\magar\OneDrive\Desktop\Week1\task-5\bin\Debug\net10.0\task-5.deps.json
+C:\Users\magar\OneDrive\Desktop\Week1\task-5\bin\Debug\net10.0\task-5.runtimeconfig.json
+C:\Users\magar\OneDrive\Desktop\Week1\task-5\bin\Debug\net10.0\task-5.dll
+C:\Users\magar\OneDrive\Desktop\Week1\task-5\bin\Debug\net10.0\task-5.pdb
+C:\Users\magar\OneDrive\Desktop\Week1\task-5\obj\Debug\net10.0\task-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magar\OneDrive\Desktop\Week1\task-5\obj\Debug\net10.0\task-5.AssemblyInfoInputs.cache
+C:\Users\magar\OneDrive\Desktop\Week1\task-5\obj\Debug\net10.0\task-5.AssemblyInfo.cs
+C:\Users\magar\OneDrive\Desktop\Week1\task-5\obj\Debug\net10.0\task-5.csproj.CoreCompileInputs.cache
+C:\Users\magar\OneDrive\Desktop\Week1\task-5\obj\Debug\net10.0\task-5.sourcelink.json
+C:\Users\magar\OneDrive\Desktop\Week1\task-5\obj\Debug\net10.0\task-5.dll
+C:\Users\magar\OneDrive\Desktop\Week1\task-5\obj\Debug\net10.0\refint\task-5.dll
+C:\Users\magar\OneDrive\Desktop\Week1\task-5\obj\Debug\net10.0\task-5.pdb
+C:\Users\magar\OneDrive\Desktop\Week1\task-5\obj\Debug\net10.0\task-5.genruntimeconfig.cache
+C:\Users\magar\OneDrive\Desktop\Week1\task-5\obj\Debug\net10.0\ref\task-5.dll
